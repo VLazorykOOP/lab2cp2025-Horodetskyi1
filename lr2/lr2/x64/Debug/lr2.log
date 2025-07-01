@@ -1,0 +1,4 @@
+﻿  lr2.cpp
+C:\Users\Адольф\Desktop\лр2\lr2\lr2\lr2.cpp(43,21): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Адольф\Desktop\лр2\lr2\lr2\lr2.cpp(49,32): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  lr2.vcxproj -> C:\Users\Адольф\Desktop\лр2\lr2\x64\Debug\lr2.exe
